@@ -1,2 +1,2 @@
-# Numerical_Method
-CSE330_Lab
+# Numerical_Method_lab
+CSE330_Codes
